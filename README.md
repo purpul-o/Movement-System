@@ -3,7 +3,7 @@
 ## Overview
 Dynamic movement and smooth transitions.
 
-## Initialization
+## Installation
 1. Download "RBXM.rbxm"
 2. Drag "RBXM.rbxm" into Roblox Studio
 3. Place "Animate" script in StarterPlayer.StarterCharacterScripts
